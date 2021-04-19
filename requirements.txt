@@ -1,1 +1,5 @@
-
+numpy
+tensorflow
+scipy
+data_parser
+ __future__
